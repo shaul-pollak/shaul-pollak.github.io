@@ -9,10 +9,10 @@ baseURL = ""
 defaultContentLanguage = "en"
 
 enableRobotsTXT = false
-paginate = 10
+pagination.pagerSize = 10
 summaryLength = 0
 
 googleAnalytics = "G-X77QK0ZF3Q"
 
 [outputs]
-  home = ["HTML", "RSS", "JSON"]
+home = ["HTML", "RSS", "JSON"]
