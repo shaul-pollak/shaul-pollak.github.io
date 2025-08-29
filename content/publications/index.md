@@ -11,6 +11,14 @@ layout: "simple"
 ---
 
 ## Preprints
+Sichert, A., **Pollak, S.**, Goyal, A., Cordero, O. X. & Sauer, U.\
+[A division of labor controls the degradation of fucoidans in the ocean](https://www.biorxiv.org/content/10.1101/2025.08.13.670036v1).\
+<u>bioRxiv<\u>. 2025 Aug.
+
+Seki, D., **Pollak, S.**, Kujawska, M., Kiu, R., Acuna-Gonzales, A., Crouch, L., Bakshani, C., Chivers, P., Mommers, M., Best, N. van, Penders, J. & Hall, L. J.\
+[Mutualistic interactions between Escherichia coli and Bifidobacterium bifidum enable degradation of human milk oligosaccharides in healthy infants](https://www.biorxiv.org/content/10.1101/2025.03.24.645027v1).\
+<u>bioRxiv<\u> 2025 Mar.
+
 Anna Lopatina, Mariusz Ferenc, Nina Bartlau, Michael Wolfram, Kerrin Steensen, Sebastiano Muscia, Fatima Hussain, Madeleine Schnurer, Leila Afjehi-Sadat, **Shaul Pollak**, Martin F Polz\
 [Interpretable machine learning reveals a diverse arsenal of anti-defenses in bacterial viruses](https://www.biorxiv.org/content/10.1101/2024.06.14.598830.abstract)\
 <u>bioRxiv</u>. 2024 Jun.
@@ -21,9 +29,14 @@ Xiaoqian Annie Yu, Cameron R Strachan, Craig W Herbold, Michaela Lang, Christoph
 
 
 ## Published
+### 2025
+Chen, S.-C., Li, X.-M., Battisti, N., Guan, G., Montoya, M. A., Osvatic, J., Pjevac, P., **Pollak, S.**, Richter, A., Schintlmeister, A., Wanek, W., Mussmann, M. & Loy, A.\
+[Microbial iron oxide respiration coupled to sulfide oxidation](https://www.nature.com/articles/s41586-025-09467-0).\
+<u>Nature</u>. 2025 Aug.
+
 ### 2024
-Jamie W Becker, **Shaul Pollak**, Jessie W Berta-Thompson, Kevin W Becker, Rogier Braakman, Keven D Dooley, Thomas Hackl, Allison Coe, Aldo Arellano, Kristen N LeGault, Paul M Berube, Steven J Biller, Andrés Cubillos-Ruiz, Benjamin AS Van Mooy, Sallie W Chisholm
-[Novel isolates expand the physiological diversity of Prochlorococcus and illuminate its macroevolution](https://journals.asm.org/doi/abs/10.1128/mbio.03497-23)
+Jamie W Becker, **Shaul Pollak**, Jessie W Berta-Thompson, Kevin W Becker, Rogier Braakman, Keven D Dooley, Thomas Hackl, Allison Coe, Aldo Arellano, Kristen N LeGault, Paul M Berube, Steven J Biller, Andrés Cubillos-Ruiz, Benjamin AS Van Mooy, Sallie W Chisholm\
+[Novel isolates expand the physiological diversity of Prochlorococcus and illuminate its macroevolution](https://journals.asm.org/doi/abs/10.1128/mbio.03497-23)\
 <u>Mbio</u>. 2024 Nov.
 
 Ksenia Guseva, Moritz Mohrlok, Lauren Alteio, Hannes Schmidt, **Shaul Pollak**, Christina Kaiser\

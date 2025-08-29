@@ -7,7 +7,7 @@ layout: "simple"
 ### Employment
 |||
 |:---|---:|
-|**Assistant Professor**|**University of Vienna**</br>Division of Microbial Ecology (DOME)<br>Centre for Microbiology and Environmental Systems Science (CMESS)</br>2024-?|
+|**Assistant Professor**|**University of Vienna**</br>Division of Microbial Ecology (DOME)<br>Centre for Microbiology and Environmental Systems Science (CMESS)</br>2024-present|
 |**Group Leader**|**University of Vienna**</br>Division of Microbial Ecology (DOME)<br>Centre for Microbiology and Environmental Systems Science (CMESS)</br>2023-2024|
 |**Postdoctoral Scholar**</br>Advisor: Prof. Sallie (Penny) Chisholm|**Massachusetts Institute of Technology**</br>Department of Civil and Environmental Engineering</br>2022-2023|
 |**Postdoctoral Scholar**</br>Advisor: Prof. Otto X. Cordero|**Massachusetts Institute of Technology**</br>Department of Civil and Environmental Engineering</br>2018-2022|
@@ -32,6 +32,10 @@ layout: "simple"
 ### Talks, Posters, and Workshops
 |||
 |:---|:---|
+|6.2025|Talk at the Microbial Population Biology Gordon Research Conference, NH, USA|
+|11.2024|Talk at the Division of Environmental Geosciences, University of Vienna, Austria|
+|10.2024|Talk at ECH Research Frontiers Workshop, Austria|
+|6.2023|Poster at New Approaches and Concepts in Microbiology Conference, EMBL Heidelberg|
 |6.2022|Talk at the Evolutionary Dynamics and Processes meeting, Plon, Germany|
 |6.2021|Virtual talk at Evolutionary and Ecological Systems Biology talks, MIT|
 |9.2019|Talk at the Simons Foundation Annual PriME meeting|
