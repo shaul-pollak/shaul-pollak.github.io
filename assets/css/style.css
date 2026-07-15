@@ -85,8 +85,14 @@ p {
 }
 
 .logo {
-  width: 350px;
+  width: 90%;
   height: auto;
+}
+
+@media (max-width: 768px) {
+  .logo {
+    width: 45%;
+  }
 }
 
 .icon {
@@ -102,7 +108,6 @@ p {
 
 .news h2 {
   font-size: 20px;
-  line-height: 0px;
 }
 
 .news hr {
@@ -129,13 +134,32 @@ p {
   margin-left: 3rem;
 }
 
+@media (max-width: 768px) {
+  .float-right {
+    float: none;
+    display: flex;
+    margin: auto;
+    width: min(80%, 400px);
+  }
+}
+
 .float-left {
   shape-outside: url("/svgs/vario.svg");
   float: inline-start;
-  width: 40%;
+  width: 50%;
   shape-margin: 3rem;
   margin-right: 3rem;
   margin-left: 0px;
+}
+
+@media (max-width: 768px) {
+  .float-left {
+    float: none;
+    display: flex;
+    margin: auto;
+    width: min(80%, 300px);
+    justify: center;
+  }
 }
 
 .float-p {
@@ -257,7 +281,7 @@ nav {
 
 @media (max-width: 768px) {
   nav {
-    font-size: 3vw;
+    font-size: calc(15px + 0.5vw);
   }
 }
 
