@@ -139,7 +139,7 @@ p {
     float: none;
     display: flex;
     margin: auto;
-    width: min(80%, 400px);
+    width: min(90%, 400px);
   }
 }
 
@@ -157,7 +157,7 @@ p {
     float: none;
     display: flex;
     margin: auto;
-    width: min(80%, 300px);
+    width: min(90%, 300px);
     justify: center;
   }
 }
@@ -281,7 +281,7 @@ nav {
 
 @media (max-width: 768px) {
   nav {
-    font-size: calc(15px + 0.5vw);
+    font-size: calc(12px + 0.5vw);
   }
 }
 
