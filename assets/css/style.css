@@ -94,6 +94,7 @@ p {
     float: none;
     display: flex;
     margin: auto;
+    width: 80%;
   }
 }
 
