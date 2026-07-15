@@ -1,5 +1,5 @@
 /* responsive. -------------------------------------------------------------- */
-:root {
+* {
   box-sizing: border-box;
 }
 
@@ -9,10 +9,11 @@
   padding: 0 15px;
 }
 
+/* responsive. -------------------------------------------------------------- */
+
 html {
   color: #3c3836;
   background-color: rgb(245, 245, 235);
-  font-size: 15px;
   font-family: iAQuattro, sans-serif;
   font-weight: normal;
   font-optical-sizing: auto;
@@ -20,67 +21,79 @@ html {
 
 body {
   padding-top: 15px;
-  font-size: 1.15rem;
+  font-size: 16px;
 }
 
 p {
   margin-bottom: 1em;
-  line-height: 1.6em;
 }
 
 /* index page. -------------------------------------------------------------- */
-/* container */
+
+/* top container */
 .logo-grid {
   display: grid;
   margin: 0px;
   padding: 0px;
-  grid-auto-columns: auto auto;
-  grid-auto-rows: auto auto auto;
-}
-.logo-grid p {
-  line-height: 1em;
-}
-.logo-big-blue {
-  line-height: 1.2em;
-  font-size: 1.6rem;
-  font-weight: bold;
-  color: rgb(0, 112, 176);
 }
 
 /* items */
 .item-logo {
+  grid-area: logo;
   display: flex;
-  justify-content: left;
-  margin-right: 2vw;
-  grid-column: 1 / 2;
-  grid-row: 1 / 4;
-}
-.item-right-1 {
-  grid-column: 2 / 3;
-  grid-row: 1 / 2;
-  font-size: 1.1rem;
-}
-.item-right-2 {
-  grid-column: 2 / 3;
-  grid-row: 2 / 3;
 }
 
-.item-right-3 {
-  grid-column: 2 / 3;
-  grid-row: 3 / 4;
+.item-info {
+  grid-area: info;
+  font-size: 12px;
 }
-.item-right-3 a {
+
+.item-desc {
+  grid-area: desc;
+}
+
+.item-links {
+  grid-area: links;
+}
+.item-links a:hover {
   text-decoration: none;
 }
+
+@media (max-width: 768px) {
+  .logo-grid {
+    grid-template-areas:
+      "logo"
+      "info"
+      "desc"
+      "links";
+  }
+}
+
+@media (min-width: 768px) {
+  .logo-grid {
+    display: grid;
+    margin: 0px;
+    padding: 0px;
+    grid-template-areas:
+      "logo info"
+      "logo desc"
+      "logo links";
+  }
+  .item-logo {
+    margin-right: 20px;
+  }
+}
+
 .logo {
-  width: min(45vw, 350px);
+  width: 350px;
   height: auto;
 }
+
 .icon {
-  /* vertical-align: middle; */
-  /* align-self: start; */
   margin-right: 5px;
 }
+
+/* news section */
 
 .news p {
   margin-bottom: 1rem;
@@ -88,7 +101,7 @@ p {
 }
 
 .news h2 {
-  font-size: 1.2rem;
+  font-size: 20px;
   line-height: 0px;
 }
 
@@ -110,7 +123,7 @@ p {
 .float-right {
   float: inline-end;
   shape-outside: url("/svgs/litter_cycle.svg");
-  height: 19rem;
+  width: 50%;
   margin-right: 0px;
   shape-margin: 3rem;
   margin-left: 3rem;
@@ -119,15 +132,15 @@ p {
 .float-left {
   shape-outside: url("/svgs/vario.svg");
   float: inline-start;
-  height: 19rem;
+  width: 40%;
   shape-margin: 3rem;
   margin-right: 3rem;
   margin-left: 0px;
 }
 
 .float-p {
-  text-wrap: pretty !important;
-  hyphens: auto !important;
+  text-wrap: pretty;
+  hyphens: auto;
 }
 
 /* -------------------------------------------------------------------------- */
@@ -150,13 +163,17 @@ p {
 
 /* -------------------------------------------------------------------------- */
 
+.logo-big-blue {
+  font-size: 20px;
+  font-weight: bold;
+  color: rgb(0, 112, 176);
+}
+
 .small-text {
   font-size: 0.95rem;
 }
 
 .small-text-index {
-  line-height: 1em;
-  font-size: 0.85rem;
   color: #444;
 }
 
@@ -191,7 +208,7 @@ p {
 .pics-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, 250px);
-  gap: 1rem;
+  gap: 10px;
 }
 
 .underline {
@@ -232,13 +249,16 @@ nav {
   display: flex;
   flex-direction: row;
   justify-content: right;
-  font-size: 1.5rem;
+  font-size: 22px;
   font-weight: 800;
   margin-top: 12px;
+  color: #999;
 }
 
-nav a {
-  text-decoration: none;
+@media (max-width: 768px) {
+  nav {
+    font-size: 3vw;
+  }
 }
 
 footer {

@@ -23,13 +23,13 @@
 			<div>
 				<nav>
 					<a href="$site.page('').link()">Home</a>
-					&nbsp;  &nbsp;
+					|
 					<a href="$site.page('about').link()">About</a>
-					&nbsp;  &nbsp;
+					|
 					<a href="$site.page('team').link()">People</a>
-					&nbsp;  &nbsp;
+					|
 					<a href="$site.page('pubs').link()">Publications</a>
-					&nbsp;  &nbsp;
+					|
 					<a href="$site.page('funding').link()">Funding</a>
 				</nav>
 			</div>

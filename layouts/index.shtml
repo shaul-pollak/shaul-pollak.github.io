@@ -11,10 +11,10 @@
 			<img src="$site.asset('svgs/logo_blue.svg').link()" class='logo'>
 		</div>
 
-		<div class='item-right-1'>
+		<div class='item-info'>
 
 			<p>
-				<b class='logo-big-blue'>Environmental Systems Microbiology Lab</b><br>
+				<b class='logo-big-blue'>Environmental Systems Microbiology</b><br>
 				<span class='small-text-index'>
 					Division of Microbial Ecology (DOME)<br>
 					Centre for Microbiology and Environmental Systems Science<br>
@@ -24,7 +24,7 @@
 			</p>
 		</div>
 
-		<div class='item-right-2'>
+		<div class='item-desc'>
 
 			<b>
 				Studying bacterial community complexity<br>
@@ -32,7 +32,7 @@
 			</b>
 		</div>
 
-		<div class='item-right-3'>
+		<div class='item-links'>
 
 			<a href='https://scholar.google.com/citations?user=jIHJECUAAAAJ&hl=en'>
 				<img src="$site.asset('icons/google-scholar.svg').link()">
