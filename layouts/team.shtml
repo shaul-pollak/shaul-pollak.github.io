@@ -1,0 +1,19 @@
+<extend template="base.shtml">
+<head id="head">
+</head>
+<body id="body">
+	<br>
+	<div class='pics-grid'>
+		<div :html="$page.contentSection('shaul')"></div>
+		<div :html="$page.contentSection('qi')"></div>
+		<div :html="$page.contentSection('lior')"></div>
+		<div :html="$page.contentSection('joana')"></div>
+		<div :html="$page.contentSection('jyothsna')"></div>
+		<div :html="$page.contentSection('rahul')"></div>
+		<div :html="$page.contentSection('thomas')"></div>
+		<div :html="$page.contentSection('nina')"></div>
+		<div :html="$page.contentSection('samira')"></div>
+		<div :html="$page.contentSection('elle')"></div>
+	</div>
+	<div class='alumni' :html="$page.contentSection('alumni')"></div>
+</body>

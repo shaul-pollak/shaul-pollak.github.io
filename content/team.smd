@@ -1,0 +1,74 @@
+---
+.title = "Team",
+.date = .date("2026-06-21T00:00:00"),
+.layout = "team.shtml",
+.draft = false,
+--- 
+
+[]($section.id('shaul'))
+[
+**Shaul Pollak** \
+PI](
+$image.siteAsset('pics/shaul.jpg').size(250,0)
+)
+
+[]($section.id('qi'))
+[
+**Qi Qi** \
+Postdoc
+]($image.siteAsset('pics/qi.jpg').size(250,0))
+
+
+[]($section.id('lior'))
+[
+**Lior Shachar** \
+PhD student
+]($image.siteAsset('pics/lior.jpg').size(250,0))
+
+[]($section.id('joana'))
+[
+**Joana Valério** \
+PhD student
+]($image.siteAsset('pics/joana.jpg').size(250,0))
+
+[]($section.id('jyothsna'))
+[
+**Jyothsna P V** \
+PhD student
+]($image.siteAsset('pics/jyothsna.jpg').size(250,0))
+
+[]($section.id('rahul'))
+[
+**Rahul Mallikarjun** \
+PhD student
+]($image.siteAsset('pics/rahul.jpg').size(250,0))
+
+[]($section.id('thomas'))
+[
+**Thomas Gaehtgens** \
+PhD student
+]($image.siteAsset('pics/thomas.jpg').size(250,0))
+
+[]($section.id('nina'))
+[
+**Nina Gabriel** \
+Intern
+]($image.siteAsset('pics/devil.png').size(250,0))
+
+[]($section.id('samira'))
+[
+**Samira Konicek** \
+Intern
+]($image.siteAsset('pics/samira.jpg').size(250,0))
+
+[]($section.id('elle'))
+[
+**Elle Weisgrab** \
+Intern
+]($image.siteAsset('pics/elle.jpg').size(250,0))
+
+
+[]($section.id('alumni'))
+# Alumni
+Marco Sing - Bioinformatics masters student \
+Gerhard Gruber - Bioinformatics masters student

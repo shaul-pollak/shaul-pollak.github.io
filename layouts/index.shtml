@@ -1,0 +1,65 @@
+<extend template="base.shtml">
+<head id="head">
+</head>
+<body id="body">
+
+	<br>
+
+	<div class="logo-grid">
+
+		<div class='item-logo'>
+			<img src="$site.asset('svgs/logo_blue.svg').link()" class='logo'>
+		</div>
+
+		<div class='item-right-1'>
+
+			<p>
+				<b class='logo-big-blue'>Environmental Systems Microbiology Lab</b><br>
+				<span class='small-text-index'>
+					Division of Microbial Ecology (DOME)<br>
+					Centre for Microbiology and Environmental Systems Science<br>
+					Environment and Climate Research Hub<br>
+					University of Vienna
+				</span>
+			</p>
+		</div>
+
+		<div class='item-right-2'>
+
+			<b>
+				Studying bacterial community complexity<br>
+				from genes to ecosystem function<br><br>
+			</b>
+		</div>
+
+		<div class='item-right-3'>
+
+			<a href='https://scholar.google.com/citations?user=jIHJECUAAAAJ&hl=en'>
+				<img src="$site.asset('icons/google-scholar.svg').link()">
+			</a>
+
+			<a href='https://orcid.org/0000-0002-8976-5944'>
+				<img src="$site.asset('icons/orcid.svg').link()" class='icon'>
+			</a>
+
+			<a href='https://codeberg.org/EnvSysMicroLab'>
+				<img src="$site.asset('icons/codeberg-logo_icon_blue.svg').link()" class='icon'>
+			</a>
+
+			<a href='https://bsky.app/profile/envsysmicro.at'>
+				<img src="$site.asset('icons/bluesky.svg').link()" class='icon'>
+			</a>
+		</div>
+	</div>
+
+	<br>
+	<h1>News</h1>
+	<div class="news" :loop="$page.contentSections()">
+		<div class="news-item" id="$loop.it.id">
+			<h2 :html="$loop.it.heading()"></h2>
+			<span class="blog-date" :text="$loop.it.id.parseDate().format('January 02, 2006')"></span>
+			<ctx :html="$loop.it.htmlNoHeading()"></ctx>
+			<hr>
+		</div>
+	</div>
+</body>
