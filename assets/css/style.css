@@ -94,9 +94,9 @@ p {
 
 @media (max-width: 768px) {
   .logo {
-    float: none;
-    display: flex;
-    margin: auto;
+    /* float: none; */
+    /* display: flex; */
+    /* margin: auto; */
     width: 80%;
   }
 }
@@ -290,7 +290,7 @@ nav {
 
 @media (max-width: 768px) {
   nav {
-    font-size: calc(12px + 0.5vw);
+    font-size: calc(12px + 1vw);
   }
 }
 
