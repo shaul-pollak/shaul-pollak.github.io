@@ -28,7 +28,7 @@
 					|
 					<a href="$site.page('team').link()">People</a>
 					|
-					<a href="$site.page('pubs').link()">Publications</a>
+					<a href="$site.page('pubs').link()">Papers</a>
 					|
 					<a href="$site.page('funding').link()">Funding</a>
 				</nav>
