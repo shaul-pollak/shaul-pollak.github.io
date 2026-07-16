@@ -290,7 +290,7 @@ nav {
 
 @media (max-width: 768px) {
   nav {
-    font-size: calc(12px + 1vw);
+    font-size: calc(13px + 1vw);
   }
 }
 
