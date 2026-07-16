@@ -8,13 +8,13 @@
 	<div class="logo-grid">
 
 		<div class='item-logo'>
-			<img src="$site.asset('svgs/logo_blue.svg').link()" class='logo'>
+			<img src="$site.asset('svgs/logo_green.svg').link()" class='logo'>
 		</div>
 
 		<div class='item-info'>
 
 			<p>
-				<b class='logo-big-blue'>Environmental Systems Microbiology</b><br>
+				<b class='logo-big-green'>Environmental Systems Microbiology</b><br>
 				<span class='small-text-index'>
 					Division of Microbial Ecology (DOME)<br>
 					Centre for Microbiology and Environmental Systems Science<br>
@@ -34,6 +34,10 @@
 
 		<div class='item-links'>
 
+			<a href='mailto:shaul.pollak.pasternak@univie.ac.at'>
+				<img src="$site.asset('icons/mail.svg').link()">
+			</a>
+
 			<a href='https://scholar.google.com/citations?user=jIHJECUAAAAJ&hl=en'>
 				<img src="$site.asset('icons/google-scholar.svg').link()">
 			</a>
@@ -43,7 +47,7 @@
 			</a>
 
 			<a href='https://codeberg.org/EnvSysMicroLab'>
-				<img src="$site.asset('icons/codeberg-logo_icon_blue.svg').link()" class='icon'>
+				<img src="$site.asset('icons/codeberg-logo_icon_green.svg').link()" class='icon'>
 			</a>
 
 			<a href='https://bsky.app/profile/envsysmicro.at'>

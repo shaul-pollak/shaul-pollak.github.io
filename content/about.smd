@@ -8,7 +8,7 @@
 
 [We study how the function and genetic variation of microbial 
 communities emerge from the complexity of interactions they 
-contain.]($text.attrs('big-blue'))
+contain.]($text.attrs('big-green'))
 
 
 []($image.siteAsset('svgs/litter_cycle.svg').attrs('float-right'))
@@ -39,7 +39,7 @@ to quantitative community function such as CO<sub>2</sub> production rate.
 
 [As environmental bacterial geneticists, we are also extremely interested 
 in how host-bacteria genetic interactions evolve in complex ecological 
-settings.]($text.attrs('big-blue'))
+settings.]($text.attrs('big-green'))
 
 
 []($image.siteAsset('svgs/vario.svg').attrs('float-left'))
