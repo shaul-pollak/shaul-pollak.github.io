@@ -5,35 +5,28 @@
 
 	<br>
 
-	<div class="logo-grid">
+	<div class="logo-area">
 
-		<div class='item-logo'>
-			<img src="$site.asset('svgs/logo_green.svg').link()" class='logo'>
-		</div>
-
-		<div class='item-info'>
-
+		<div>
 			<p>
-				<b class='logo-big-green'>Environmental Systems Microbiology</b><br>
-				<span class='small-text-index'>
-					Division of Microbial Ecology (DOME)<br>
-					Centre for Microbiology and Environmental Systems Science<br>
-					Environment and Climate Research Hub<br>
-					University of Vienna
-				</span>
+				<b class='logo-big-green'>Environmental Systems Microbiology Lab</b>
 			</p>
 		</div>
 
-		<div class='item-desc'>
+		<img src="$site.asset('svgs/logo_green.svg').link()" class='logo'>
 
-			<b>
-				Studying bacterial community complexity<br>
-				from genes to ecosystem function<br><br>
-			</b>
+		<div class='small-text-index'>
+			<p>
+				Division of Microbial Ecology (DOME)
+			</p>
+			<p>
+				Centre for Microbiology and Environmental Systems Science
+			</p>
+			<p>Environment and Climate Research Hub</p>
+			<p>University of Vienna</p>
 		</div>
 
-		<div class='item-links'>
-
+		<div class='logo-icons'>
 			<a href='mailto:shaul.pollak.pasternak@univie.ac.at'>
 				<img src="$site.asset('icons/mail.svg').link()">
 			</a>

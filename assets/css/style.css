@@ -7,7 +7,7 @@
 }
 
 .wrapper {
-  max-width: 800px;
+  max-width: 650px;
   margin: auto;
   padding: 0 15px;
 }
@@ -33,28 +33,6 @@ p {
 
 /* index page. -------------------------------------------------------------- */
 
-/* top container */
-.logo-grid {
-  display: grid;
-  margin: 0px;
-  padding: 0px;
-}
-
-/* items */
-.item-logo {
-  grid-area: logo;
-  display: flex;
-}
-
-.item-info {
-  grid-area: info;
-  font-size: 12px;
-}
-
-.item-desc {
-  grid-area: desc;
-}
-
 .item-links {
   grid-area: links;
 }
@@ -62,43 +40,22 @@ p {
   text-decoration: none;
 }
 
-@media (max-width: 768px) {
-  .logo-grid {
-    grid-template-areas:
-      "logo"
-      "info"
-      "desc"
-      "links";
-  }
+.logo-area {
+  width: 100%;
+  margin-bottom: 30px;
 }
 
-@media (min-width: 768px) {
-  .logo-grid {
-    display: grid;
-    margin: 0px;
-    padding: 0px;
-    grid-template-areas:
-      "logo info"
-      "logo desc"
-      "logo links";
-  }
-  .item-logo {
-    margin-right: 20px;
-  }
+.logo-text-area {
+  position: relative;
+  top: 0%;
 }
 
 .logo {
-  width: 90%;
+  float: inline-end;
+  width: min(100%, 325px);
+  margin-bottom: 20px;
   height: auto;
-}
-
-@media (max-width: 768px) {
-  .logo {
-    /* float: none; */
-    /* display: flex; */
-    /* margin: auto; */
-    width: 80%;
-  }
+  shape-outside: url("svgs/logo-green.svg");
 }
 
 .icon {
