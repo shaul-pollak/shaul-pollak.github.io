@@ -2,50 +2,44 @@
 <head id="head">
 </head>
 <body id="body">
-
-	<br>
-
 	<div class="logo-area">
-
 		<div>
 			<p>
 				<b class='logo-big-green'>Environmental Systems Microbiology Lab</b>
 			</p>
 		</div>
 
-		<img src="$site.asset('svgs/logo_green.svg').link()" class='logo'>
+		<div class="below-heading">
 
-		<div class='small-text-index'>
-			<p>
-				Division of Microbial Ecology (DOME)
-			</p>
-			<p>
-				Centre for Microbiology and Environmental Systems Science
-			</p>
-			<p>Environment and Climate Research Hub</p>
-			<p>University of Vienna</p>
-		</div>
+			<img src="$site.asset('svgs/logo_green.svg').link()" class="logo">
+			<div class='small-text-index'>
+				<p>Division of Microbial Ecology (DOME)</p>
+				<p>Centre for Microbiology and Environmental Systems Science</p>
+				<p>Environment and Climate Research Hub</p>
+				<p>University of Vienna</p>
+			</div>
 
-		<div class='logo-icons'>
-			<a href='mailto:shaul.pollak.pasternak@univie.ac.at'>
-				<img src="$site.asset('icons/mail.svg').link()">
-			</a>
+			<div class='logo-icons'>
+				<a href='mailto:shaul.pollak.pasternak@univie.ac.at'>
+					<img src="$site.asset('icons/mail.svg').link()" class='icon'>
+				</a>
 
-			<a href='https://scholar.google.com/citations?user=jIHJECUAAAAJ&hl=en'>
-				<img src="$site.asset('icons/google-scholar.svg').link()">
-			</a>
+				<a href='https://scholar.google.com/citations?user=jIHJECUAAAAJ&hl=en'>
+					<img src="$site.asset('icons/google-scholar.svg').link()" class='icon'>
+				</a>
 
-			<a href='https://orcid.org/0000-0002-8976-5944'>
-				<img src="$site.asset('icons/orcid.svg').link()" class='icon'>
-			</a>
+				<a href='https://orcid.org/0000-0002-8976-5944'>
+					<img src="$site.asset('icons/orcid.svg').link()" class='icon'>
+				</a>
 
-			<a href='https://codeberg.org/EnvSysMicroLab'>
-				<img src="$site.asset('icons/codeberg-logo_icon_green.svg').link()" class='icon'>
-			</a>
+				<a href='https://codeberg.org/EnvSysMicroLab'>
+					<img src="$site.asset('icons/codeberg-logo_icon_green.svg').link()" class='icon'>
+				</a>
 
-			<a href='https://bsky.app/profile/envsysmicro.at'>
-				<img src="$site.asset('icons/bluesky.svg').link()" class='icon'>
-			</a>
+				<a href='https://bsky.app/profile/envsysmicro.at'>
+					<img src="$site.asset('icons/bluesky.svg').link()" class='icon'>
+				</a>
+			</div>
 		</div>
 	</div>
 

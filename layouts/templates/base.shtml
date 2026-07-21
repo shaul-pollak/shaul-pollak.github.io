@@ -20,19 +20,15 @@
 	</head>
 	<div class="wrapper">
 		<body id="body">
-			<div>
-				<nav>
-					<a href="$site.page('').link()">Home</a>
-					|
-					<a href="$site.page('about').link()">About</a>
-					|
-					<a href="$site.page('team').link()">People</a>
-					|
-					<a href="$site.page('pubs').link()">Papers</a>
-					|
-					<a href="$site.page('funding').link()">Funding</a>
-				</nav>
-			</div>
+			<nav class="nav">
+				<ol>
+					<li class="nav-item"><a href="$site.page('').link()">Home</a></li>
+					<li class="nav-item"><a href="$site.page('about').link()">About</a></li>
+					<li class="nav-item"><a href="$site.page('team').link()">People</a></li>
+					<li class="nav-item"><a href="$site.page('pubs').link()">Papers</a></li>
+					<li class="nav-last"><a href="$site.page('funding').link()">Funding</a></li>
+				</ol>
+			</nav>
 			<super>
 		</body>
 	</div>
