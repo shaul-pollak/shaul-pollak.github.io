@@ -4,6 +4,7 @@
   --green2: #228b22;
   --green1: #009e49ff;
   --blue: #0070b0;
+  --black: #282828;
 }
 
 .wrapper {
@@ -15,7 +16,7 @@
 html {
   color: #3c3836;
   background-color: rgb(245, 245, 235);
-  font-family: iAQuattro, sans-serif;
+  font-family: interVariable, iAQuattro, sans-serif;
   font-weight: normal;
   font-optical-sizing: auto;
 }
@@ -26,6 +27,7 @@ body {
 
 p {
   margin-bottom: 1em;
+  line-height: 1.5;
 }
 
 /* index page. -------------------------------------------------------------- */
@@ -55,6 +57,15 @@ p {
         text-decoration: none;
       }
     }
+  }
+}
+
+@media (max-width: 500px) {
+  .logo {
+    float: none;
+    display: flex;
+    padding-top: 10px;
+    padding-bottom: 10px;
   }
 }
 
@@ -97,15 +108,6 @@ p {
   margin-left: 3rem;
 }
 
-@media (max-width: 768px) {
-  .float-right {
-    float: none;
-    display: flex;
-    margin: auto;
-    width: min(90%, 400px);
-  }
-}
-
 .float-left {
   shape-outside: url("/svgs/vario.svg");
   float: inline-start;
@@ -115,10 +117,21 @@ p {
   margin-left: 0px;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 500px) {
+  .float-right {
+    float: none;
+    display: flex;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: auto;
+    width: min(90%, 400px);
+  }
+
   .float-left {
     float: none;
     display: flex;
+    padding-top: 20px;
+    padding-bottom: 20px;
     margin: auto;
     width: min(90%, 300px);
     justify: center;
@@ -232,11 +245,19 @@ a:hover {
 }
 
 nav {
-  font-size: 20px;
   font-weight: bold;
+  font-size: 22px;
+  margin-bottom: 40px;
+  & a {
+    color: var(--black);
+  }
+  /* border-bottom-width: 1px; */
+  /* border-bottom-style: solid; */
+  /* border-bottom-color: #999; */
 }
 
 .nav ol {
+  font-family: iAQuattro;
   list-style-type: none;
   padding: 0;
   margin: 0;
@@ -245,6 +266,7 @@ nav {
 
 .nav-item {
   display: inline-block;
+  margin-right: 5px;
 }
 
 .nav-last {
@@ -253,8 +275,9 @@ nav {
 }
 
 @media (max-width: 500px) {
-  nav {
-    font-size: calc(14px + 1vw);
+  .nav ol {
+    /* font-size: calc(11px + 1vw); */
+    text-align: left;
   }
 }
 
