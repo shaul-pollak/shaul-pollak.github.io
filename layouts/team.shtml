@@ -2,7 +2,6 @@
 <head id="head">
 </head>
 <body id="body">
-	<br>
 	<div class='pics-grid'>
 		<div :html="$page.contentSection('shaul')"></div>
 		<div :html="$page.contentSection('qi')"></div>

@@ -2,48 +2,56 @@
 <head id="head">
 </head>
 <body id="body">
+
 	<div class="logo-area">
 		<div>
-			<p>
-				<b class='logo-big-green'>Environmental Systems Microbiology Lab</b>
-			</p>
+			<h2>
+				Environmental Systems Microbiology Lab
+			</h2>
 		</div>
 
 		<div class="below-heading">
-
 			<img src="$site.asset('svgs/logo_green.svg').link()" class="logo">
-			<div class='small-text-index'>
-				<p>Division of Microbial Ecology (DOME)</p>
-				<p>Centre for Microbiology and Environmental Systems Science</p>
-				<p>Environment and Climate Research Hub</p>
-				<p>University of Vienna</p>
-			</div>
+
+			<p>Division of Microbial Ecology (<span class="canonical-name">DOME</span>)</p>
+			<p>Centre for Microbiology and Environmental Systems Science</p>
+			<p>Environment and Climate Research Hub</p>
+			<p>University of Vienna</p>
 
 			<div class='logo-icons'>
 				<a href='mailto:shaul.pollak.pasternak@univie.ac.at'>
-					<img src="$site.asset('icons/mail.svg').link()" class='icon'>
+					<svg class='icon'>
+						<use href="/icons/icons_opt.svg#email"></use>
+					</svg>
 				</a>
 
 				<a href='https://scholar.google.com/citations?user=jIHJECUAAAAJ&hl=en'>
-					<img src="$site.asset('icons/google-scholar.svg').link()" class='icon'>
+					<svg class='icon'>
+						<use href="/icons/icons_opt.svg#scholar"></use>
+					</svg>
 				</a>
 
 				<a href='https://orcid.org/0000-0002-8976-5944'>
-					<img src="$site.asset('icons/orcid.svg').link()" class='icon'>
+					<svg class='icon'>
+						<use href="/icons/icons_opt.svg#orcid"></use>
+					</svg>
 				</a>
 
 				<a href='https://codeberg.org/EnvSysMicroLab'>
-					<img src="$site.asset('icons/codeberg-logo_icon_green.svg').link()" class='icon'>
+					<svg class='icon'>
+						<use href="/icons/icons_opt.svg#codeberg"></use>
+					</svg>
 				</a>
 
 				<a href='https://bsky.app/profile/envsysmicro.at'>
-					<img src="$site.asset('icons/bluesky.svg').link()" class='icon'>
+					<svg class='icon'>
+						<use href="/icons/icons_opt.svg#bluesky"></use>
+					</svg>
 				</a>
 			</div>
 		</div>
 	</div>
 
-	<br>
 	<h1>News</h1>
 	<div class="news" :loop="$page.contentSections()">
 		<div class="news-item" id="$loop.it.id">

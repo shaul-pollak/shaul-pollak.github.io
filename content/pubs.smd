@@ -5,176 +5,288 @@
 .draft = false,
 --- 
 
+[]($section.id('pubs'))
+
+# In Press
+
 ## 2026
 
+[]($section.attrs('pub'))
+
 Coe, A., Parker, S. M., Vo, N. N., Kearney, S. M., **Pollak, S.**, von Emster,
-K., Mullet, J. I., Castro, K. G. & Chisholm, S. W.\
+K., Mullet, J. I., Castro, K. G. & Chisholm, S. W.
+
 [Influence of heterotrophs on phage infection of marine
-picocyanobacteria](https://journals.asm.org/doi/10.1128/msystems.00769-26)\
-mSystems. 2026 Jul.
+picocyanobacteria](https://journals.asm.org/doi/10.1128/msystems.00769-26)
+
+_mSystems_. 2026 Jul.
+
+
+[]($section.attrs('pub'))
 
 Yu, X. A., Strachan, C. R., Herbold, C. W., Lang, M., Gasche, C., Makristathis,
-A., Segata, N., **Pollak, S.**, Tett, A. & Polz, M. F.\
+A., Segata, N., **Pollak, S.**, Tett, A. & Polz, M. F.
+
 [Genome-wide sweeps create ecological units in the human gut
-microbiome](https://www.nature.com/articles/s41586-026-10476-w)\
-<u>_Nature_</u>. 2026 May.
+microbiome](https://www.nature.com/articles/s41586-026-10476-w)
+
+_Nature_. 2026 May.
+
+
+[]($section.attrs('pub'))
 
 Seki, D., **Pollak, S.**, Kujawska, M., Kiu, R., Acuna-Gonzalez, A., Crouch, L.
 I., Bakshani, C. R., Chivers, P. T., Mommers, M., Van Best, N., Penders, J. &
-Hall, L. J.\
+Hall, L. J.
+
 [Human milk oligosaccharide mediates mutualism between escherichia coli and
-bifidobacterium bifidum.](https://www.nature.com/articles/s41467-026-71764-7)\
-<u>_Nature Communications_</u>. 2026 Apr.
+bifidobacterium bifidum.](https://www.nature.com/articles/s41467-026-71764-7)
+
+_Nature Communications_. 2026 Apr.
 
 
 ## 2025
 
+[]($section.attrs('pub'))
+
 Chen, S.-C., Li, X.-M., Battisti, N., Guan, G., Montoya, M. A., Osvatic, J.,
 Pjevac, P., **Pollak, S.**, Richter, A., Schintlmeister, A., Wanek, W.,
-Mussmann, M. & Loy, A.\
+Mussmann, M. & Loy, A.
+
 [Microbial iron oxide respiration coupled to sulfide
-oxidation.](https://www.nature.com/articles/s41586-025-09467-0)\
-<u>_Nature_</u>. 2025 Aug.
+oxidation.](https://www.nature.com/articles/s41586-025-09467-0)
+
+_Nature_. 2025 Aug.
 
 ## 2024
 
+[]($section.attrs('pub'))
+
 Becker, J. W., **Pollak, S.**, Berta-Thompson, J. W., Becker, K. W., Braakman,
 R., Dooley, K. D., Hackl, T., Coe, A., Arellano, A., LeGault, K. N., Berube, P.
-M., Biller, S. J., Cubillos-Ruiz, A., Van Mooy, B. A. S. & Chisholm, S. W.\
+M., Biller, S. J., Cubillos-Ruiz, A., Van Mooy, B. A. S. & Chisholm, S. W.
+
 [Novel isolates expand the physiological diversity of Prochlorococcus and
 illuminate its
-macroevolution](https://journals.asm.org/doi/abs/10.1128/mbio.03497-23)\
-<u>_Mbio_</u>. 2024 Nov.
+macroevolution](https://journals.asm.org/doi/abs/10.1128/mbio.03497-23)
 
-Guseva, K., Mohrlok, M., Alteio, L., Schmidt, H., **Pollak, S.** & Kaiser, C.\
+_Mbio_. 2024 Nov.
+
+
+[]($section.attrs('pub'))
+
+Guseva, K., Mohrlok, M., Alteio, L., Schmidt, H., **Pollak, S.** & Kaiser, C.
+
 [Bacteria face trade-offs in the decomposition of complex
-biopolymers](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012320)\
-<u>_PLOS Computational Biology_</u>. 2024 Aug.
+biopolymers](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012320)
+
+_PLOS Computational Biology_. 2024 Aug.
+
+
+[]($section.attrs('pub'))
 
 Shan, X., Wasson, P. A., Rao, Y., Backer, S., Leal, L., Albright, V. C., Gao,
-W., Chai, Y., Sichert, A., **Pollak, S.**, Yin, L. & Cordero, O. X.\
+W., Chai, Y., Sichert, A., **Pollak, S.**, Yin, L. & Cordero, O. X.
+
 [Simple genomic traits predict rates of polysaccharide
-biodegradation](https://pubs.acs.org/doi/abs/10.1021/acs.est.4c02769)\
-<u>_Environmental Science & Technology_</u>. 2024 Jul.
+biodegradation](https://pubs.acs.org/doi/abs/10.1021/acs.est.4c02769)
+
+_Environmental Science & Technology_. 2024 Jul.
 
 ## 2018-2023
 
-Bareia, T., **Pollak, S.**, Guler, P., Puyesky, S. & Eldar, A.\
+[]($section.attrs('pub')) 
+
+Bareia, T., **Pollak, S.**, Guler, P., Puyesky, S. & Eldar, A.
+
 [Major distinctions between the two oligopeptide permease systems of Bacillus
 subtilis with respect to signaling, development and evolutionary
-divergence.](https://www.microbiologyresearch.org/content/journal/micro/10.1099/mic.0.001382)\
-<u>_Microbiology_</u>. 2023 Sep.
+divergence.](https://www.microbiologyresearch.org/content/journal/micro/10.1099/mic.0.001382)
 
-Gralka, M., **Pollak, S.** & Cordero, O. X.\
+_Microbiology_. 2023 Sep.
+
+
+
+[]($section.attrs('pub')) 
+
+Gralka, M., **Pollak, S.** & Cordero, O. X.
+
 [Genome content predicts the carbon catabolic preferences of heterotrophic
-bacteria.](https://www.nature.com/articles/s41564-023-01458-z)\
-<u>_Nature Microbiology_</u>. 2023 Aug.
+bacteria.](https://www.nature.com/articles/s41564-023-01458-z)
 
-**Pollak, S.**\
+_Nature Microbiology_. 2023 Aug.
+
+[]($section.attrs('pub')) 
+
+**Pollak, S.**
+
 [Plant DNA in feces as a nutritional crystal
-ball.](https://www.pnas.org/doi/abs/10.1073/pnas.2309172120)\
-<u>_PNAS_</u>. 2023 Jul.
+ball.](https://www.pnas.org/doi/abs/10.1073/pnas.2309172120)
+
+_PNAS_. 2023 Jul.
+
+[]($section.attrs('pub')) 
 
 Szabo, R. E., Pontrelli, S., Grilli, J., Schwartzman, J. A., **Pollak, S.**,
-Sauer, U. & Cordero, O. X.\
+Sauer, U. & Cordero, O. X.
+
 [Historical contingencies and phage induction diversify bacterioplankton
 communities at the
-microscale.](https://www.pnas.org/doi/full/10.1073/pnas.2117748119)\
-<u>_PNAS_</u>. 2022 Jul.
+microscale.](https://www.pnas.org/doi/full/10.1073/pnas.2117748119)
+
+_PNAS_. 2022 Jul.
+
+[]($section.attrs('pub')) 
 
 Pontrelli, S., Szabo, R., **Pollak, S.**, Schwartzman, J., Ledezma-Tejeida, D.,
-Cordero, O. X. & Sauer, U.\
-[Metabolic cross-feeding structures the assembly of polysaccharide degrading
-communities.](https://www.science.org/doi/full/10.1126/sciadv.abk3076)\
-<u>_Science Advances_</u>. 2022 Feb.
+Cordero, O. X. & Sauer, U.
 
-**Pollak, S.**, Gralka, M., Sato, Y., Schwartzman, J., Lu, L. & Cordero, O. X.\
+[Metabolic cross-feeding structures the assembly of polysaccharide degrading
+communities.](https://www.science.org/doi/full/10.1126/sciadv.abk3076)
+
+_Science Advances_. 2022 Feb.
+
+[]($section.attrs('pub')) 
+
+**Pollak, S.**, Gralka, M., Sato, Y., Schwartzman, J., Lu, L. & Cordero, O. X.
+
 [Public good exploitation in natural bacterioplankton
-communities.](https://www.science.org/doi/full/10.1126/sciadv.abi4717)\
-<u>_Science Advances_</u>. 2021 Jul.
+communities.](https://www.science.org/doi/full/10.1126/sciadv.abi4717)
+
+_Science Advances_. 2021 Jul.
+
+
+[]($section.attrs('pub')) 
 
 Liao, J., Guo, X., Weller, D. L., **Pollak, S.**, Buckley, D. H., Wiedmann, M.
-& Cordero, O. X.\
+& Cordero, O. X.
+
 [Nationwide genomic atlas of soil-dwelling Listeria reveals effects of
 selection and population ecology on pangenome
-evolution.](https://www.nature.com/articles/s41564-021-00935-7)\
-<u>_Nature Microbiology_</u>. 2021 Jul.
+evolution.](https://www.nature.com/articles/s41564-021-00935-7)
 
-**Pollak, S.** & Cordero, O. X.\
+_Nature Microbiology_. 2021 Jul.
+
+[]($section.attrs('pub')) 
+
+**Pollak, S.** & Cordero, O. X.
+
 [Rhizobiome shields plants from
-infection.](https://www.nature.com/articles/s41564-020-0766-1) (commentary)\
-<u>_Nature Microbiology_</u> 2020 Aug.
+infection.](https://www.nature.com/articles/s41564-020-0766-1) (commentary)
 
-Ben-Zion, I., **Pollak, S.** & Eldar, A.\
+_Nature Microbiology_ 2020 Aug.
+
+[]($section.attrs('pub')) 
+
+Ben-Zion, I., **Pollak, S.** & Eldar, A.
+
 [Clonality and non-linearity drive facultative-cooperation allele
-diversity.](https://www.nature.com/articles/s41396-018-0310-y)\
-<u>_The ISME journal_</u>. 2019 Mar.
+diversity.](https://www.nature.com/articles/s41396-018-0310-y)
 
-Bareia T., **Pollak, S.**, Eldar A.\
-[Self-sensing in Bacillus subtilis quorum-sensing systems.](https://www.nature.com/articles/s41564-017-0044-z)\
-<u>_Nature Microbiology_</u>. 2018 Jan.
+_The ISME journal_. 2019 Mar.
+
+[]($section.attrs('pub')) 
+
+Bareia T., **Pollak, S.**, Eldar A.
+
+[Self-sensing in Bacillus subtilis quorum-sensing
+systems.](https://www.nature.com/articles/s41564-017-0044-z)
+
+_Nature Microbiology_. 2018 Jan.
 
 ## Before 2018
 
-Even-Tov, E., Omer Bendori, S., **Pollak, S.** & Eldar, A.\
+[]($section.attrs('pub')) 
+
+Even-Tov, E., Omer Bendori, S., **Pollak, S.** & Eldar, A.
+
 [Transient Duplication-Dependent Divergence and Horizontal Transfer Underlie
 the Evolutionary Dynamics of Bacterial Cell-Cell
-Signaling.](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2000330)\
-<u>_PLoS Biol_</u>. 2016 Dec.
+Signaling.](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2000330)
+
+_PLoS Biol_. 2016 Dec.
+
+[]($section.attrs('pub'))
 
 Even-Tov, E., Omer Bendori, S., Valastyan, J., Ke, X., **Pollak, S.**, Bareia,
-T., Ben-Zion, I., Bassler, B. L. & Eldar, A.\
+T., Ben-Zion, I., Bassler, B. L. & Eldar, A.
+
 [Social Evolution Selects for Redundancy in Bacterial Quorum
-Sensing.](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002386)\
-<u>_PLoS Biol_</u>. 2016 Feb.
+Sensing.](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002386)
+
+_PLoS Biol_. 2016 Feb.
+
+[]($section.attrs('pub')) 
 
 **Pollak, S.**, Omer-Bendori, S., Even-Tov, E., Lipsman, V., Bareia, T.,
-Ben-Zion, I. & Eldar, A.\
+Ben-Zion, I. & Eldar, A.
+
 [Facultative cheating supports the coexistence of diverse quorum-sensing
-alleles.](https://www.pnas.org/doi/full/10.1073/pnas.1520615113)\
-<u>_PNAS_</u>. 2016 Feb 23;113(8):2152-7.
+alleles.](https://www.pnas.org/doi/full/10.1073/pnas.1520615113)
 
->[]($block)
->Commentary by Pérez-Escudero A., Gore J.\
+_PNAS_. 2016 Feb 23;113(8):2152-7.
+
+
+[]($section.attrs('pub'))
+
+>Commentary by Pérez-Escudero A., Gore J. 
+>
 >[Selection favors incompatible signaling in
->bacteria.](https://www.pnas.org/doi/full/10.1073/pnas.1600174113)\
-><u>_PNAS_</u> 2016 Feb.
+>bacteria.](https://www.pnas.org/doi/full/10.1073/pnas.1600174113)
+>
+>_PNAS_ 2016 Feb.
 
-**Pollak, S.**, Omer Bendori, S. & Eldar, A.\
+[]($section.attrs('pub')) 
+
+**Pollak, S.**, Omer Bendori, S. & Eldar, A.
+
 [A complex path for domestication of B. subtilis
-sociality.](https://link.springer.com/article/10.1007/s00294-015-0479-9)\
-<u>_Current Genetics_</u>. 2015 Nov.
+sociality.](https://link.springer.com/article/10.1007/s00294-015-0479-9)
 
-Omer Bendori, S., **Pollak, S.**, Hizi, D. & Eldar, A.\
-[The RapP-PhrP quorum sensing system of Bacillus subtilis strain NCIB3610
-affect biofilm formation through multiple targets, due to an atypical
-signal-insensitive allele of
-RapP.](https://journals.asm.org/doi/10.1128/JB.02382-14)\
-<u>_J Bacteriol_</u>. 2014 Nov.
+_Current Genetics_. 2015 Nov.
+
+
+[]($section.attrs('pub')) 
+
+Omer Bendori, S., **Pollak, S.**, Hizi, D. & Eldar, A.
+
+[The RapP-PhrP quoru sensing system of Bacillus subtilis strain NCIB3610 affect
+biofilm formation through multiple targets, due to an atypical
+signal-insensitive allele of RapP.](https://journals.asm.org/doi/10.1128/JB.02382-14)
+
+_J Bacteriol_. 2014 Nov.
+
+[]($section.attrs('pub')) 
 
 Halimi, Y., Dessau, M., **Pollak, S.**, Ast, T., Erez, T., Livnat-Levanon, N.,
-Karniol, B., Hirsch, J. A. & Chamovitz, D. A.\
+Karniol, B., Hirsch, J. A. & Chamovitz, D. A.
+
 [COP9 signalosome subunit 7 from Arabidopsis interacts with and regulates the
 small subunit of ribonucleotide reductase
-(RNR2).](https://link.springer.com/article/10.1007/s11103-011-9795-8)\
-<u>_Plant Mol Biol_</u>. 2011 Sep.
+(RNR2).](https://link.springer.com/article/10.1007/s11103-011-9795-8) 
 
-## Preprints
+_Plant Mol Biol_. 2011 Sep.
 
-Coe, A., Parker, S. M., Vo, N. N., Kearney, S. M., **Pollak, S.**, Von Emster,
-K., Mullet, J. I., Castro, K. G. & Chisholm, S. W.\
-[Influence of heterotrophs on phage infection of marine
-picocyanobacteria.](https://www.biorxiv.org/content/10.1101/2025.09.17.676900.abstract)\
-<u>_bioRxiv_</u>. 2025 Sep.
+# Preprints
 
-Sichert, A., **Pollak, S.**, Goyal, A., Cordero, O. & Sauer, U.\
+
+[]($section.attrs('pub')) 
+
+Sichert, A., **Pollak, S.**, Goyal, A., Cordero, O. & Sauer, U.
+
 [A division of labor controls the degradation of fucoidans in the
-ocean.](https://www.biorxiv.org/content/10.1101/2025.08.13.670036v1)\
-<u>_bioRxiv_</u>. 2025 Aug.
+ocean.](https://www.biorxiv.org/content/10.1101/2025.08.13.670036v1)
+
+_bioRxiv_. 2025 Aug.
+
+[]($section.attrs('pub')) 
 
 Lopatina, A., Ferenc, M., Bartlau, N., Wolfram, M., Steensen, K., Muscia, S.,
-Hussain, F., Schnurer, M., Afjehi-Sadat, L., **Pollak, S.** & Polz, M. F.\
+Hussain, F., Schnurer, M., Afjehi-Sadat, L., **Pollak, S.** & Polz, M. F.
+
 [Interpretable machine learning reveals a diverse arsenal of anti-defenses in
 bacterial
-viruses.](https://www.biorxiv.org/content/10.1101/2024.06.14.598830.abstract)\
-<u>_bioRxiv_</u>. 2024 Jun.
+viruses.](https://www.biorxiv.org/content/10.1101/2024.06.14.598830.abstract)
+
+_bioRxiv_. 2024 Jun.
+

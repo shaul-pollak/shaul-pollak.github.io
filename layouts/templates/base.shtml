@@ -3,31 +3,31 @@
 	<head id="head">
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 		<title :text="$site.title"></title>
-		<link type="text/css" rel="stylesheet" href="$site.asset('css/style.css').link()">
+
+		<!-- the-proportional-web -->
+		<link type="text/css" rel="stylesheet" href="$site.asset('css/the-proportional-web/index.css').link()">
+		<script defer src="$site.asset('css/the-proportional-web/index.js').link()"></script>
+
 		<!-- code highlighting -->
 		<link type="text/css" rel="stylesheet" href="$site.asset('css/highlight.css').link()">
-		<!-- inter variable font -->
-		<link type="text/css" rel="stylesheet" href="$site.asset('fonts/inter/inter.css').link()">
-		<!-- commit mono-ish font -->
-		<link type="text/css" rel="stylesheet" href="$site.asset('fonts/ia-quattro/ia-quattro.css').link()">
-		<!-- mathtex -->
-		<link type="text/css" rel="stylesheet" href="$site.asset('fonts/Temml/Temml-Local.css').link()">
-		<script defer src="$site.asset('temml.min.js').link()"></script>
-		<script defer src="$site.asset('render-mathtex.js').link()"></script>
-		<!-- /mathtex -->
+
+		<!-- Alegreya -->
+		<link type="text/css" rel="stylesheet" href="$site.asset('fonts/alegreya.css').link()">
+		<!-- commitMono font -->
+		<link type="text/css" rel="stylesheet" href="$site.asset('fonts/commit-mono.css').link()">
+
 		<super>
 	</head>
 	<div class="wrapper">
 		<body id="body">
 			<nav class="nav">
-				<ol>
-					<li class="nav-item"><a href="$site.page('').link()">Home</a></li>
-					<li class="nav-item"><a href="$site.page('about').link()">About</a></li>
-					<li class="nav-item"><a href="$site.page('team').link()">People</a></li>
-					<li class="nav-item"><a href="$site.page('pubs').link()">Papers</a></li>
-					<li class="nav-last"><a href="$site.page('funding').link()">Funding</a></li>
-				</ol>
+				<a href="$site.page('').link()">Home</a>&nbsp;&nbsp;
+				<a href="$site.page('about').link()">About</a>&nbsp;&nbsp;
+				<a href="$site.page('team').link()">People</a>&nbsp;&nbsp;
+				<a href="$site.page('pubs').link()">Papers</a>&nbsp;&nbsp;
+				<a href="$site.page('funding').link()">Funding</a>
 			</nav>
 			<super>
 		</body>

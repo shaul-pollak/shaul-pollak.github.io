@@ -1,4 +1,7 @@
-.zine_version = "0.12.0",
+.zine_version = "0.13.0",
+.supermd = .{
+    .auto_target_blank = true,
+},
 .site = .simple(.{ // <-- note the dot!
     .title = "Environmental Systems Microbiology @ Univie",
     .host_url = "https://envsysmicro.at",
@@ -7,6 +10,8 @@
     .assets_dir_path = "assets",
     .static_assets = [
         "fonts/",
+        "icons/",
+        "svgs/",
     ],
 }),
 

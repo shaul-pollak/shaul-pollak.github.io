@@ -7,7 +7,7 @@
 
 []($section.id('avina'))
 <a href='https://avinastiftung.ch/'>
-[**Avina Stiftung**]($image.siteAsset("svgs/Avina_logo.svg").size(0,60))
+[**Avina Stiftung**]($image.siteAsset("svgs/Avina_logo.svg").attrs('avina'))
 </a>
 
 
@@ -15,5 +15,6 @@
 
 []($section.id('fwf'))
 <a href='https://www.fwf.ac.at/en/'>
-[**FWF**]($image.siteAsset("svgs/FWF_Logo.svg").size(0,60))
+[**FWF**]($image.siteAsset("svgs/FWF_Logo.svg").attrs('fwf'))
 </a>
+
