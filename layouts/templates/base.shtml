@@ -13,8 +13,9 @@
 		<!-- code highlighting -->
 		<link type="text/css" rel="stylesheet" href="$site.asset('css/highlight.css').link()">
 
-		<!-- Alegreya -->
+		<!-- fonts -->
 		<link type="text/css" rel="stylesheet" href="$site.asset('fonts/alegreya.css').link()">
+		<link type="text/css" rel="stylesheet" href="$site.asset('fonts/charter.css').link()">
 		<!-- commitMono font -->
 		<link type="text/css" rel="stylesheet" href="$site.asset('fonts/commit-mono.css').link()">
 

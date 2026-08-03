@@ -55,12 +55,6 @@ PhD student
 Intern
 ]($image.siteAsset('pics/devil.png').size(250,0))
 
-[]($section.id('samira'))
-[
-**Samira Konicek** \
-Intern
-]($image.siteAsset('pics/samira.jpg').size(250,0))
-
 []($section.id('elle'))
 [
 **Elle Weisgrab** \
@@ -70,6 +64,7 @@ Intern
 
 []($section.id('alumni'))
 # Alumni
+Samira Konicek - Intern \
 Marco Sing - Bioinformatics masters student \
 Gerhard Gruber - Bioinformatics masters student
 

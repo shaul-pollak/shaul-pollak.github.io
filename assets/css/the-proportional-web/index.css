@@ -126,7 +126,7 @@ table {
 
 /* src/base.css */
 :root {
-  --font-family: "Alegreya", serif;
+  --font-family: "charter", serif;
   --font-family-code: "CommitMono", monospace;
   --line-height: 1.2rem;
   --border-thickness: 1.5px;
@@ -155,6 +155,10 @@ table {
   box-sizing: border-box;
 }
 
+nav {
+  font-family: "Alegreya SC", serif;
+}
+
 /* * + * { */
 /*   margin-top: var(--line-height); */
 /* } */
@@ -166,8 +170,9 @@ h3,
 h4,
 h5,
 h6 {
+  font-family: "Alegreya SC", serif;
   font-weight: var(--font-weight-normal);
-  margin: calc(var(--line-height) * 2) 0 var(--line-height);
+  margin: calc(var(--line-height) * 2) 0 calc(var(--line-height) / 2) 0;
   line-height: var(--line-height);
 }
 
@@ -195,6 +200,7 @@ h2#toc-title {
 }
 
 h1 .header-section-number {
+  font-family: "Alegreya SC", serif;
   display: none;
 }
 
@@ -739,6 +745,12 @@ header p {
       }
     }
   }
+}
+
+.blog-date {
+  font-family: "Alegreya", serif;
+  margin-top: 0px;
+  font-size: 0.9rem;
 }
 
 /* about */
