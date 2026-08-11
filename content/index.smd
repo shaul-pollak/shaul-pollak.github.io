@@ -1,18 +1,53 @@
 ---
 .title = "envsysmicro.at",
-.date = .date("2026-04-22"),
+.date = .date("2026-08-31"),
 .layout = "index.shtml",
 .draft = false,
 --- 
+
+# [Paper published in *Nature*]($section.id('2026-08-26'))
+
+[Synergistic degradation of fucoidans in the
+ocean](https://www.nature.com/articles/s41586-026-10980-z)
+
+[Andi]($link.attrs('canonical-name').url('https://imsb.ethz.ch/research/sauer/people/andreas-sichert.html'))'s
+incredible paper was published in Nature today. I think this paper charts the
+way forward, and Andi really showed us how its done from start to finish. I'm
+really glad I got to work with him and our good friend
+[Akshit]($link.attrs('canonical-name').url('https://www.icts.res.in/people/akshit-goyal')) on this.
+
+Fucoidan is a heteropolymer of fucose made by brown algae in the ocean, and its
+chemical complexity [requires hundreds of enzymes to
+degrade](https://www.nature.com/articles/s41564-020-0720-2).
+[Andi]($text.attrs('canonical-name')) enriched a
+community that degrades this polymer from ocean water, and through pure
+wizardry (... LCMS if you want to be a stickler about it) found that the degradation of
+fucoidan by synthetic communities is extremely easy to predict due to
+synergistic interactions between degraders.
+
+This description really does no justice to the paper, and I really can't
+recommend reading this paper enough. Also,
+[Andi]($text.attrs('canonical-name')) is an amazing writer and this
+paper is pure prose start to finish.
+
+Go [Andi]($text.attrs('canonical-name'))!
+
+# [*Shaul visits ICTP in Trieste*]($section.id('2026-08-24'))
+
+I (Shaul) will be visiting [Jacopo
+Grilli]($link.attrs('canonical-name').url('https://jacopogrilli.github.io/'))'s lab, and give a talk at the
+[Quantitative Life Science division](https://www.ictp.it/research/qls.aspx) at
+[ICTP](https://www.ictp.it/).
 
 # [Paper published in *mSystems*]($section.id('2026-07-20'))
 
 [Influence of heterotrophs on phage infection of marine
 picocyanobacteria](https://journals.asm.org/doi/10.1128/msystems.00769-26)
 
-Shaul's last(?) paper from his time at Penny Chisholm's lab. Allison found that
-_Prochlorococcus_ only recovered from phage infection if heterotrophs were
-around, but not if it grew in monoculture. 
+Shaul's last(?) paper from his time at [Penny
+Chisholm]($link.attrs('canonical-name').url('https://chisholmlab.mit.edu/'))'s 
+lab. Allison found that _Prochlorococcus_ only recovered from phage infection 
+if heterotrophs were around, but not if it grew in monoculture. 
 
 The twist: after regrowth _Prochlorococcus_ was resistant to the phage - so far
 so good - BUT! This was, to the best we could tell, not due to genetic changes.
@@ -22,8 +57,8 @@ More weirdness in the paper.
 # [Rahul will give a flash talk at ICBP in Genoa]($section.id('2026-06-28'))
 
 Rahul will give a talk at the [12th international conference on biological
-physics](https://www.icbp2026.org/). He will talk in the "ECOLOGY AND EVOLUTION
-OF COMMUNITIES" session on Thursday July 2nd about our extracellular enzyme
+physics](https://www.icbp2026.org/). He will talk in the ["ECOLOGY AND EVOLUTION
+OF COMMUNITIES"]($text.attrs('canonical-name')) session on Thursday July 2nd about our extracellular enzyme
 consumer-resource model.
 
 # [Shaul will talk at KITP]($section.id('2026-05-18'))
