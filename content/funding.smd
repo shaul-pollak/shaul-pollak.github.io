@@ -6,15 +6,12 @@
 --- 
 
 []($section.id('avina'))
-<a href='https://avinastiftung.ch/'>
-[**Avina Stiftung**]($image.siteAsset("svgs/Avina_logo.svg").attrs('avina'))
-</a>
-
+[]($link.url('https://avinastiftung.ch/en/').new(true).id('avinalogo'))
+**Avina Stiftung**
 
 
 
 []($section.id('fwf'))
-<a href='https://www.fwf.ac.at/en/'>
-[**FWF**]($image.siteAsset("svgs/FWF_Logo.svg").attrs('fwf'))
-</a>
+[]($link.url('https://www.fwf.ac.at/en/').new(true).id('fwflogo'))
+**FWF**
 

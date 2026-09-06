@@ -825,23 +825,32 @@ header p {
 
 #avina {
   margin: calc(var(--line-height) * 2) 0 0 0;
-  & figure {
-    margin: 0;
 
-    & .avina {
-      margin: 0;
-      height: 60px;
-      width: auto;
-    }
-
-    & figcaption {
-      margin-top: 0.5rem;
-    }
+  & #avinalogo {
+    background-image: url(../../svgs/Avina_logo.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: block;
+    margin: 0 0 10px 0;
+    height: 60px;
+    width: auto;
+    resize: both;
   }
 }
 
 #fwf {
   margin: calc(var(--line-height) * 2) 0 0 0;
+
+  & #fwflogo {
+    background-image: url(../../svgs/FWF_Logo.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: block;
+    margin: 0 0 10px 0;
+    height: 60px;
+    width: auto;
+    resize: both;
+  }
 
   & figure {
     margin: 0;
