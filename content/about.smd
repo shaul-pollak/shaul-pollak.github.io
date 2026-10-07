@@ -3,7 +3,7 @@
 .date = .date("2026-06-14"),
 .layout = "page.shtml",
 .draft = false,
---- 
+---
 
 >We study how the function and genetic variation of microbial communities
 >emerge from the complexity of interactions they contain.
@@ -30,7 +30,7 @@ this genomic knowledge gap to allow robust and accurate mapping from microbiome
 genomic information to community trait configurations. Borrowing ideas from
 ecological, evolutionary and genetic theory (basically epistasis), we also
 develop the theory to translate these trait configurations to quantitative
-community function such as CO~2~ production rate.
+community function such as carbon-dioxide production rate.
 
 >As environmental bacterial geneticists, we are also extremely interested in
 >how host-bacteria genetic interactions evolve in complex ecological settings.

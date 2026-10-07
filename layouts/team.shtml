@@ -12,6 +12,7 @@
 		<div :html="$page.contentSection('thomas')"></div>
 		<div :html="$page.contentSection('nina')"></div>
 		<div :html="$page.contentSection('elle')"></div>
+		<div :html="$page.contentSection('andjela')"></div>
 	</div>
 	<div class='alumni' :html="$page.contentSection('alumni')"></div>
 </body>

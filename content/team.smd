@@ -52,15 +52,22 @@ PhD student
 []($section.id('nina'))
 [
 **Nina Gabriel** \
-Intern
-]($image.siteAsset('pics/devil.png').size(250,0))
+Master student
+]($image.siteAsset('pics/nina.jpg').size(250,0))
 
 []($section.id('elle'))
 [
 **Elle Weisgrab** \
-Intern
+Master student
 ]($image.siteAsset('pics/elle.jpg').size(250,0))
 
+[]($section.id('andjela'))
+[
+**Andjela Ilic** \
+Master student
+]($image.siteAsset('pics/devil.png').size(250,0))
+
+</-- ------------------- alumni ------------------- -->
 
 []($section.id('alumni'))
 # Alumni
